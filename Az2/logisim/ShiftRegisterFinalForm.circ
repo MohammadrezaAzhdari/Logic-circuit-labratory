@@ -115,8 +115,8 @@
     </comp>
     <comp lib="1" loc="(1090,510)" name="AND Gate"/>
     <comp lib="1" loc="(540,410)" name="NOT Gate"/>
-    <comp lib="1" loc="(970,430)" name="NOR Gate"/>
     <comp lib="1" loc="(970,560)" name="XOR Gate"/>
+    <comp lib="1" loc="(980,430)" name="XNOR Gate"/>
     <comp lib="5" loc="(560,370)" name="Shift Register">
       <a name="appearance" val="logisim_evolution"/>
       <a name="length" val="4"/>
@@ -157,7 +157,7 @@
     <wire from="(780,520)" to="(780,540)"/>
     <wire from="(780,520)" to="(800,520)"/>
     <wire from="(780,540)" to="(910,540)"/>
-    <wire from="(970,430)" to="(1010,430)"/>
     <wire from="(970,560)" to="(1010,560)"/>
+    <wire from="(980,430)" to="(1010,430)"/>
   </circuit>
 </project>
